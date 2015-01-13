@@ -3,10 +3,10 @@
 * [Introduction](README.md)
    * 为什么要写这本书
 * 动手之前
+   * 从产品汪的角度构思应用
    * 明确应用的目的
    * 使用 Scrum ＋github 管理你的项目
    * 个人代码风格
-   * 从产品汪的角度构思应用
 * [设计你的原型](she_ji_ni_de_yuan_xing.md)
    * 使用 MockBot 制作原型
    * 使用 Sketch 制作高保真原型
