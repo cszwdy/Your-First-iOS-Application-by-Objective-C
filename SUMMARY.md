@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
    * 为什么要写这本书
-* 动手之前
+* [动手之前](dong_shou_zhi_qian.md)
    * 构思应用
    * 分析提炼应用的需求
    * 使用 Scrum ＋github 管理你的项目
